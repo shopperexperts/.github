@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.shopperxp.com/images/shopperxp-logo.png" alt="ShopperExperts" height="60">
+  <img src="https://raw.githubusercontent.com/shopperexperts/.github/main/profile/wide-logo.png" alt="ShopperExperts" height="60">
 </h1>
 
 <p align="center">
